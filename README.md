@@ -18,12 +18,12 @@ Provides a user-friendly command-line interface.
     cd paraphrasing-task
 
 3. Install dependencies
-    npm install
+    **npm install**
 
 ## Usage
 
 1. Run the tool
-    npm start
+    **npm start**
 
 2. Input the text you want to paraphrase.
 
@@ -34,10 +34,10 @@ Provides a user-friendly command-line interface.
 ## Testing
 
 1. Run unit tests
-    npm test
+    **npm test**
 
 2. View code coverage report
-    npm run coverage
+    **npm run coverage**
 
 ## Additional Information
     Library Documentation: https://github.com/websymphony/paraphrasing-tool
